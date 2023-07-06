@@ -1,6 +1,6 @@
 # Project-Capstone-HCAI
 
-INFINITE LEARNING
+## Infinite Learning ##
 
 Red Hat Certified System Administrator - IBM AI &amp; Cybersecurity. 
 
