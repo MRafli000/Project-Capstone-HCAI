@@ -4,9 +4,8 @@
 
 Red Hat Certified System Administrator - IBM AI &amp; Cybersecurity. 
 
-Muhammad Rafli from Politeknik Negeri Semarang
-
-| Nama      | Usia |
-| --------- | ---- |
-| John Doe  | 25   |
-| Jane Smith| 30   |
+| Nama      | Muhammad Rafli |
+| Asal      | Jakarta |
+| Kampus    | Politeknik Negeri Semarang |
+| Jurusan   | Teknik Eletro |
+| Prodi     | D4 - Teknologi Rekayasa Komputer |
