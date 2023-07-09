@@ -11,3 +11,6 @@ Red Hat Certified System Administrator - IBM AI &amp; Cybersecurity.
 | Kampus    | Politeknik Negeri Semarang       |
 | Jurusan   | Teknik Eletro                    |
 | Prodi     | D4 - Teknologi Rekayasa Komputer |
+
+
+# Keterangan Projek #
