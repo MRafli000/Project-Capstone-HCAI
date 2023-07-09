@@ -15,4 +15,8 @@ Red Hat Certified System Administrator - IBM AI &amp; Cybersecurity.
 
 ## Keterangan Projek ##
 
-1. Dataset
+1. Dataset Lung Cancer
+Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
+
+1. Dataset Lung Cancer
+Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
