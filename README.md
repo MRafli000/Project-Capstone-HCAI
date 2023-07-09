@@ -23,7 +23,9 @@ Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/
 ![architecture](Gambar/Pattern-dipakai.png)
 
 ### Flow
-   
+
+![architecture](Gambar/Flow.png)
+
 1. Pengguna mengirimkan percobaan AutoAI menggunakan pengaturan default.
 2. Beberapa model pipeline dihasilkan. Model pipeline pilihan dari papan peringkat disimpan sebagai buku catatan Jupyter.
 3. Notebook Jupyter dijalankan dan model pipeline yang dimodifikasi dibuat di dalam notebook.
