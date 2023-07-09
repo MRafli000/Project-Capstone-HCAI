@@ -4,7 +4,7 @@
 
 Red Hat Certified System Administrator - IBM AI &amp; Cybersecurity. 
 
-| Keteranga | Data                             |
+| Keterangan| Data                             |
 | --------- | ----                             |
 | Nama      | Muhammad Rafli                   |
 | Asal      | Jakarta                          |
