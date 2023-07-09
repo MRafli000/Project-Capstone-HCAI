@@ -35,3 +35,6 @@ Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/
 
 * [IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) 
 * [IBM Watson Machine Learning](https://cloud.ibm.com/catalog/services/machine-learning) 
+
+## Hasil 
+
