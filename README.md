@@ -18,5 +18,6 @@ Red Hat Certified System Administrator - IBM AI &amp; Cybersecurity.
 1. Dataset Lung Cancer
 Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
 
-1. Dataset Lung Cancer
+1. Pattern yang dipakai dari IBM Developer AI
+![Contoh Gambar](./Pattern-dipakai.png)
 Dataset ini diambil dari website kaggle, link = https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
